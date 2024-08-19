@@ -1,0 +1,7 @@
+query MyQuery {
+  whoami {
+    createdAt
+    email
+    id
+  }
+}
